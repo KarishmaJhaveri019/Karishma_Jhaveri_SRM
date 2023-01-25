@@ -1,4 +1,4 @@
-public class String {
+public class Kari {
   public static void main(String[] args) {
     String str = "Hello, Karishma!";
     int length = str.length();
